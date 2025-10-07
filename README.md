@@ -1,5 +1,5 @@
 # Hi, I'm Sami!
-I'm an AI/Machine Learning Engineer with a passion for (https://github.com/y0usaf/nixos)[Linux] and the Linux ecosystem!
+I'm an AI/Machine Learning Engineer with a passion for [Linux](https://github.com/y0usaf/nixos) and the Linux ecosystem!
 
 # Work
 I have worked at [Cohere](https://cohere.com/) and [Rootly](https://rootly.com/ai-sre)
