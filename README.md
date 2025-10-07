@@ -1,8 +1,16 @@
-# Hi, I'm Sami!
-I'm an AI/Machine Learning Engineer with a passion for [Linux](https://github.com/y0usaf/nixos) and the Linux ecosystem!
+<div align="center">
 
-# Work
-I have worked at [Cohere](https://cohere.com/) and [Rootly](https://rootly.com/ai-sre)
+# 👋 Hi, I'm Sami!
 
-# Projects
-I have made 2 Minecraft mods and I have also contributed to All The Mods, a popular Minecraft modpack!
+AI/ML Engineer with a passion for [Linux](https://github.com/y0usaf/nixos) and the Linux ecosystem
+
+</div>
+
+---
+
+## 💼 Work
+[Cohere](https://cohere.com/) • [Rootly](https://rootly.com/ai-sre)
+
+## 🚀 Projects
+- 2 Minecraft mods
+- Contributor to **All The Mods** modpack
