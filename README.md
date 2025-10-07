@@ -8,9 +8,11 @@ AI/ML Engineer with a passion for [Linux](https://github.com/y0usaf/nixos) and t
 
 ---
 
-## 💼 Work
-[Cohere](https://cohere.com/) • [Rootly](https://rootly.com/ai-sre)
+## 💼 Previous Work
+• [Rootly](https://rootly.com/)
+• [Cohere](https://cohere.com/)
 
 ## 🚀 Projects
-- 2 Minecraft mods
+- [Sami's Randomizer](https://github.com/y0usaf/Samis-Randomizer)
+- [Sami's AE Infinity](https://github.com/y0usaf/Samis-AE-Infinity)
 - Contributor to **All The Mods** modpack
