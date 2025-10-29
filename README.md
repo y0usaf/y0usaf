@@ -20,7 +20,7 @@
 
 <img src="/assets/java.png" width="16" height="16" alt="Java" /> [𝑺𝒂𝒎𝒊'𝒔 𝑨𝑬 𝑰𝒏𝒇𝒊𝒏𝒊𝒕𝒚](https://github.com/y0usaf/Samis-AE-Infinity)
 
-<img src="/assets/java.png" width="16" height="16" alt="Java" /> 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒐𝒓 𝒕𝒐 **𝑨𝒍𝒍 𝑻𝒉𝒆 𝑴𝒐𝒅𝒔 𝟏𝟎: 𝑻𝒐 𝑻𝒉𝒆 𝑺𝒌𝒚** 𝑴𝒊𝒏𝒆𝒄𝒓𝒂𝒇𝒕 𝒎𝒐𝒅𝒑𝒂𝒄𝒌
+<img src="/assets/java.png" width="16" height="16" alt="Java" /> 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒐𝒓 𝒕𝒐 [**𝑨𝒍𝒍 𝑻𝒉𝒆 𝑴𝒐𝒅𝒔 𝟏𝟎: 𝑻𝒐 𝑻𝒉𝒆 𝑺𝒌𝒚**](https://github.com/AllTheMods/All-the-mods-10-Sky) 𝑴𝒊𝒏𝒆𝒄𝒓𝒂𝒇𝒕 𝒎𝒐𝒅𝒑𝒂𝒄𝒌
 
 <img src="/assets/nix.png" width="16" height="16" alt="Nix" /> [𝑫𝒆𝒆𝒑𝒊𝒏 𝑫𝒂𝒓𝒌 𝑪𝒖𝒓𝒔𝒐𝒓 𝒇𝒐𝒓 𝑿11](https://github.com/y0usaf/Deepin-Dark-xcursor)
 
