@@ -25,3 +25,11 @@
 <img src="/assets/nix.png" width="16" height="16" alt="Nix" /> [𝑫𝒆𝒆𝒑𝒊𝒏 𝑫𝒂𝒓𝒌 𝑪𝒖𝒓𝒔𝒐𝒓 𝒇𝒐𝒓 𝑿11](https://github.com/y0usaf/Deepin-Dark-xcursor)
 
 <img src="/assets/nix.png" width="16" height="16" alt="Nix" /> [𝑫𝒆𝒆𝒑𝒊𝒏 𝑫𝒂𝒓𝒌 𝑪𝒖𝒓𝒔𝒐𝒓 𝒇𝒐𝒓 𝑯𝒚𝒑𝒓𝒄𝒖𝒓𝒔𝒐𝒓](https://github.com/y0usaf/Deepin-Dark-hyprcursor)
+
+## 📋 𝑶𝒑𝒆𝒏 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔
+
+<img src="/assets/hypr.png" width="16" height="16" alt="Hyprland" /> 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒐𝒓 𝒕𝒐 [𝒉𝒚𝒑𝒓𝒘𝒎/𝒉𝒚𝒑𝒓𝒈𝒓𝒂𝒑𝒉𝒊𝒄𝒔](https://github.com/hyprwm/hyprgraphics)
+
+<img src="/assets/javascript.png" width="16" height="16" alt="JavaScript" /> 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒐𝒓 𝒕𝒐 [𝒄𝒋𝒑𝒂𝒊𝒔/𝑯𝒂𝒏𝒅𝒚](https://github.com/cjpais/Handy)
+
+<img src="/assets/typescript.png" width="16" height="16" alt="TypeScript" /> 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒐𝒓 𝒕𝒐 [𝑷𝒊𝒆𝒃𝒂𝒍𝒅-𝑨𝑰/𝒕𝒘𝒆𝒂𝒌𝒄𝒄](https://github.com/Piebald-AI/tweakcc)
