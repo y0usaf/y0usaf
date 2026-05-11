@@ -6,7 +6,7 @@
 
 I'm an AI/ML Engineer with a passion for [Linux](https://github.com/y0usaf/nixos) and the Linux ecosystem
 
-<img src="assets/cookunity.png" width="16" height="16" alt="CookUnity" /> I'm currently an AI-Native Software Engineer at [CookUnity](https://cookunity.com/)! <img src="assets/cookunity.png" width="16" height="16" alt="CookUnity" />
+<img src="assets/cookunity.png" width="16" height="16" alt="CookUnity"/> I'm currently an AI-Native Software Engineer at [CookUnity](https://cookunity.com/)! <img src="assets/cookunity.png" width="16" height="16" alt="CookUnity"/>
 
 </div>
 
