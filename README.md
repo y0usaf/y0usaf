@@ -1,6 +1,8 @@
 <div align="center">
 
-``` 👋 𝙷𝚒, 𝙸'𝚖 𝚂𝚊𝚖𝚒!```
+<h1 id="header" align="center">
+    <pre> 𝙷𝚒! 👋 𝙸'𝚖 𝚂𝚊𝚖𝚒 :)</pre>
+  </h1>
 
 𝙸'𝚖 𝚊𝚗 𝙰𝙸/𝙼𝙻 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚒𝚝𝚑 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 [𝙻𝚒𝚗𝚞𝚡](https://github.com/y0usaf/nixos) 𝚊𝚗𝚍 𝚝𝚑𝚎 𝙻𝚒𝚗𝚞𝚡 𝚎𝚌𝚘𝚜𝚢𝚜𝚝𝚎𝚖
 
