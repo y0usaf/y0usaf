@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 id="header" align="center">
-    <pre>Hi! I'm Sami :)</pre>
+    <pre>Hi! 👋 I'm Sami :)</pre>
   </h1>
 
 I'm an AI/ML Engineer with a passion for [Linux](https://github.com/y0usaf/nixos) and the Linux ecosystem
