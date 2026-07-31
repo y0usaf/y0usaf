@@ -38,10 +38,10 @@ I build agent tooling, a Wayland compositor, and reproducible Nix systems — in
 
 `manzil` — Tiny home management for NixOS, nix-darwin, and finix: a small module, Rust manifest linker, and JSON manifests.
 
-## Open source contributions
+## Merged upstream contributions
 
-- **niri:** own commits upstream in [niri-wm/niri](https://github.com/niri-wm/niri).
-- **tweakcc:** implemented `feat/custom-tools` in [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc).
-- **ShojiWM:** added explicit-sync fence blocking in [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM).
-- **hyprgraphics:** contributions to [hyprwm/hyprgraphics](https://github.com/hyprwm/hyprgraphics).
-- **Handy:** contributions to [cjpais/Handy](https://github.com/cjpais/Handy).
+- **finix:** made dinit work as PID 1 and added a VM boot test in [finix#3](https://github.com/willowispll/finix/pull/3).
+- **hyprpaper:** added opt-in recursive wallpaper directory scanning in [hyprpaper#349](https://github.com/hyprwm/hyprpaper/pull/349).
+- **Handy:** switched Nix packaging from the AppImage to building from source in [Handy#778](https://github.com/cjpais/Handy/pull/778).
+- **Handy:** added a Nix flake for NixOS support in [Handy#561](https://github.com/cjpais/Handy/pull/561).
+- **tweakcc:** fixed bunx cache version handling when patching Claude Code in [tweakcc#282](https://github.com/Piebald-AI/tweakcc/pull/282).
